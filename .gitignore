@@ -1,0 +1,19 @@
+# R and RStudio session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# macOS settings
+.DS_Store
+
+# Local credentials and environment settings
+.Renviron
+.env
+
+# Research data
+/data/
+
+# Temporary files
+*.tmp
+*.log
